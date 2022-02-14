@@ -1,0 +1,70 @@
+
+body {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+.pictureDiv{
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  opacity: 80%;
+}
+
+.row{
+  text-align: center;
+}
+
+.date{
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.containerfooter{
+  text-align: center;
+}
+
+.ramon{
+  opacity: 70%;
+}
+
+.adminpage{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.valifile{
+  text-align: center;
+  margin-left: 8.5rem;
+  margin-top: 1rem;
+}
+
+.a{
+  margin-top: 1rem;
+}
+
+.adddata{
+  margin-right: 6rem;
+  margin-top: 1rem;
+}
+
+.opop{
+  opacity: 70%;
+  margin-top: 5rem;
+}
+
